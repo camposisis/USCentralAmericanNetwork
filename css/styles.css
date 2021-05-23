@@ -212,7 +212,7 @@ a {
   text-decoration: underline;
 }
 a:hover {
-  color: #c34e2e;
+  color: #512ec3;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -4683,7 +4683,7 @@ textarea.form-control-lg {
 }
 
 .alert-primary {
-  color: #923b23;
+  color: #9f85f2;
   background-color: #fde0d8;
   border-color: #fcd0c4;
 }
@@ -5030,17 +5030,17 @@ textarea.form-control-lg {
 }
 
 .list-group-item-primary {
-  color: #923b23;
+  color: #9f85f2;
   background-color: #fde0d8;
 }
 .list-group-item-primary.list-group-item-action:hover, .list-group-item-primary.list-group-item-action:focus {
-  color: #923b23;
+  color: #9f85f2;
   background-color: #e4cac2;
 }
 .list-group-item-primary.list-group-item-action.active {
   color: #fff;
-  background-color: #923b23;
-  border-color: #923b23;
+  background-color: #9f85f2;
+  border-color: #9f85f2;
 }
 
 .list-group-item-secondary {
@@ -10939,7 +10939,7 @@ hr.divider-light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/bg-masthead.jpg");
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../dist/assets/img/bg-masthead.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
